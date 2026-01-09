@@ -12,22 +12,86 @@ Journey A
 }
 
 
-:: Link to another passage. {"position":"1025,350","size":"100,100"}
+:: Link to another passage A. {"position":"700,400","size":"100,100"}
+Option A
+
+Walk to the front door of the mansion from back yard.
+
+[[Link to passage E]]
+
+
+:: Link to another passage B. {"position":"700,250","size":"100,100"}
+Option B
+
+Travel to the entrance by golf cart. (faster but will miss view)
+
+
+[[Link to passage D]]
+
+
+:: Link to another passage C. {"position":"700,75","size":"100,100"}
+Option C
+
+Travel through the apartment building.
+
+[[Link to passage G]]
+
+
+:: Link to another passage. {"position":"125,600","size":"100,100"}
 Option A
 
 Walk to the front door of the mansion from back yard.
 
 
-:: Untitled Passage {"position":"900,225","size":"100,100"}
+:: Link to passage {"position":"125,375","size":"100,100"}
+Ran into a Lizard doing sunbathing.
+
+
+:: Link to passage D {"position":"850,250","size":"100,100"}
+Arrived at the front door earlier, saw the delivery boy on his fancy bike.
+
+[[link to the passage I]]
+
+
+:: Link to passage E {"position":"850,400","size":"100,100"}
+Ran into a Lizard doing sunbathing.
+
+[[link to passage J]]
+
+
+:: Link to passage G {"position":"850,75","size":"100,100"}
+Got lost in the building, having trouble finding exits to the front door.
+
+[[link to passage H]]
+
+
+:: Untitled Passage {"position":"500,250","size":"100,100"}
 A ordinary day in the morning, mission is to pickup Starbuck delivery of Pineapple yogurt.
 
 
 
 
 
-[[Link to another passage.]]
+[[Link to another passage A.]]
+
+[[Link to another passage B.]]
+
+[[Link to another passage C.]]
 
 
+:: Untitled Passage 1 {"position":"125,475","size":"100,100"}
+Option B
 
-:: Untitled Passage 1 {"position":"900,350","size":"100,100"}
+Travle by golf cart (faster)
 
+
+:: link to passage H {"position":"1000,75","size":"100,100"}
+Found exist with the help of a staff. Followed him walk to the front door. And pickedup delivery at the front desk.
+
+
+:: link to passage J {"position":"1000,400","size":"100,100"}
+Feeding the lizard with a banana. Forgot about the delivery. 
+
+
+:: link to the passage I {"position":"1000,250","size":"100,100"}
+Finish picking up the delivery. Heading back. 
