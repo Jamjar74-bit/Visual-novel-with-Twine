@@ -1,0 +1,87 @@
+:: StoryTitle
+Journey A
+
+
+:: StoryData
+{
+  "ifid": "9512F082-A170-48FF-A867-7B94787D01BC",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: Feed the lizard {"position":"1000,475","size":"100,100"}
+Feeding the lizard with a banana. Forgot about the delivery. 
+
+
+:: Keep walking {"position":"850,625","size":"100,100"}
+Keep walking through the garden, ignoring the lizard.
+
+
+:: Link to another passage B. {"position":"700,250","size":"100,100"}
+Option B
+
+Travel to the entrance by golf cart. (faster but will miss view)
+
+
+[[Link to passage D]]
+
+
+:: Link to another passage C. {"position":"700,75","size":"100,100"}
+Option C
+
+Travel through the apartment building.
+
+[[Link to passage G]]
+
+
+:: Link to passage D {"position":"850,250","size":"100,100"}
+Arrived at the front door earlier, saw the delivery boy on his fancy bike.
+
+[[link to the passage I]]
+
+
+:: Link to passage G {"position":"850,75","size":"100,100"}
+Got lost in the building, having trouble finding exits to the front door.
+
+[[link to passage H]]
+
+
+:: Option A. {"position":"700,475","size":"100,100"}
+Option A
+
+Walk to the front door of the mansion from back yard.
+
+[[Ran into a Lizard]]
+
+[[Keep walking]]
+
+
+:: Ran into a Lizard {"position":"850,475","size":"100,100"}
+Ran into a Lizard doing sunbathing.
+
+[[Feed the lizard]]
+
+
+:: Untitled Passage {"position":"500,250","size":"100,100"}
+A ordinary day in the morning, mission is to pickup Starbuck delivery of Pineapple yogurt.
+
+
+
+
+
+[[Option A.]]
+
+[[Link to another passage B.]]
+
+[[Link to another passage C.]]
+
+
+:: link to passage H {"position":"1000,75","size":"100,100"}
+Found exist with the help of a staff. Followed him walk to the front door. And pickedup delivery at the front desk.
+
+
+:: link to the passage I {"position":"1000,250","size":"100,100"}
+Finish picking up the delivery. Heading back. 
