@@ -1,0 +1,33 @@
+:: StoryTitle
+Journey A
+
+
+:: StoryData
+{
+  "ifid": "9512F082-A170-48FF-A867-7B94787D01BC",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: Link to another passage. {"position":"1025,350","size":"100,100"}
+Option A
+
+Walk to the front door of the mansion from back yard.
+
+
+:: Untitled Passage {"position":"900,225","size":"100,100"}
+A ordinary day in the morning, mission is to pickup Starbuck delivery of Pineapple yogurt.
+
+
+
+
+
+[[Link to another passage.]]
+
+
+
+:: Untitled Passage 1 {"position":"900,350","size":"100,100"}
+
