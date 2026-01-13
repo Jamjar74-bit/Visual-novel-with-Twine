@@ -1,0 +1,159 @@
+:: StoryTitle
+Journey A
+
+
+:: StoryData
+{
+  "ifid": "9512F082-A170-48FF-A867-7B94787D01BC",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Morning Delivery Pickup",
+  "zoom": 1
+}
+
+
+:: \ Call roomate {"position":"725,300","size":"100,100"}
+Give roomate a call to get help on directions.
+
+
+:: \ Go to the front desk {"position":"600,700","size":"100,100"}
+Walk into the lobby, talk to the receptionist at the front desk about the delivery.
+Have a nice conversation with her, and she passed me the delivery bag.
+
+[[Link to passage J -> Take the delivery bag]]
+
+
+:: \ Take the Delivery from him {"position":"725,450","size":"100,100"}
+Take the yogurt smoothie bag, and complement his outfit.
+
+
+:: \ Take the Golf Cart {"position":"450,575","size":"100,100"}
+Option B
+
+Travel to the entrance by golf cart, which saved a lot of travle time and could see the garden view on the way.
+
+
+[[Link to passage D -> Talk to the Delivery Dude]]
+[[Link to passage E -> Go to the front desk]]
+[[Link to passage F -> Walk down to the beach]]
+
+
+:: \ Take the delivery bag {"position":"725,700","size":"100,100"}
+Go to the front desk, talk to the receptionist about the starbuck delivery.
+She's really busy, and she said she didn't know about the delivery. She asked me to wait 
+outside the lobby.
+
+[[Wait outside the Lobby]]
+
+
+:: \ Taking selfies {"position":"725,575","size":"100,100"}
+Take some selfies by the phone for half an hour. The delivery guy texted me that he left the smoothie with the front desk.
+
+
+:: \ Talk to the Delivery Dude {"position":"600,450","size":"100,100"}
+Arrived at the front door earlier, saw the delivery boy on his fancy bike and wearing a funky silver and blue leather jacket, with a fake musle suit underneath. 
+
+[[Link to passage J -> Take the Delivery from him]]
+
+
+
+
+:: \ Walk down to the beach {"position":"600,575","size":"100,100"}
+Walk down to the beach to catch a late view of the sunrise.
+
+[[Link to passage J -> Taking selfies]]
+
+
+:: \ Walk through Apartment Building {"position":"450,325","size":"100,100"}
+Option C
+
+Travel through the apartment building.
+
+[[Link to passage G->Take the next left turn]]
+[[Link to passage G->Take the next Right turn]]
+[[Link to passage G->Take the elevator to the lobby]]
+
+
+:: Feed the lizard {"position":"725,850","size":"100,100"}
+Slowly approach the lizard and feed the lizard with a banana. It enjoys the banana very well. I forgot about the delivery.
+
+
+:: Go to backyard {"position":"450,925","size":"100,100"}
+Walk to the front door of the mansion from backyard.
+
+[[Ran into a Lizard]]
+[[Keep walking]]
+[[Got Scared, and Run Away]]
+
+
+
+:: Got Scared, and Run Away {"position":"600,1125","size":"100,100"}
+Spooked by the huge size lizard, and running through the garden. 
+Arrived at the entertrance gate, just saw the delivery boy arriving.
+
+[[Took the delivery and head back.]]
+
+
+:: Keep walking {"position":"600,975","size":"100,100"}
+Walking through the garden towards the entrance gate. Enjoyed the palm trees and tropical plants along the pathway. Hearing birds chirping in the moring in the sunny weather.
+
+[[Reach the Front Entrance, Enter the Lobby.]]
+
+
+:: Lost in the hallway, can't find way to main entrance. {"position":"725,150","size":"100,100"}
+After walking throught the hallway, making turns, ended up getting lost to a dead end.
+
+
+:: Morning Delivery Pickup {"position":"250,475","size":"100,100"}
+Jam just woke up in the morning, and she ordered somethinig, so the mission is to pickup Starbuck delivery of a cup of pineapple yogurt smoothie.
+
+
+
+[[Option A ->Go to backyard]]
+
+[[Option B-> Take the Golf Cart]]
+
+[[Option C -> Walk through Apartment Building]]
+
+
+:: Ran into a Lizard {"position":"600,850","size":"100,100"}
+Ran into a Lizard doing sunbathing. It's a huge one, but stay on the stone in the sun, very still and calm. 
+
+[[Feed the lizard]]
+
+
+:: Reach the Front Entrance, Enter the Lobby. {"position":"725,975","size":"100,100"}
+Entering the lobby and talked to the receptionist at the front desk about the starbuck 
+delivery. She offer the delivery bag. Heading back after.
+
+
+:: Take the elevator to the lobby {"position":"600,0","size":"100,100"}
+Walk down the hallway to reach exit to the beach.
+
+[[Link to passage G->Walk along the beach to watch sunrise]]
+
+
+:: Take the next Right turn {"position":"600,150","size":"100,100"}
+Walk down the hallway to reach exit to the beach.
+
+[[Link to passage G->Lost in the hallway, can't find way to main entrance.]]
+
+
+:: Take the next left turn {"position":"600,300","size":"100,100"}
+Got lost in the building, having trouble finding exits to the front door.
+
+[[link to passage H -> Call roomate]]
+
+
+:: Took the delivery and head back. {"position":"725,1125","size":"100,100"}
+Talk to him and surprised to be there in time. Chat with him, made some  jokes about his outfit and ask to take selfies with him. The delivery boy got mad and threw the delivery bag on the floor and ride away.
+
+
+
+:: Wait outside the Lobby {"position":"850,700","size":"100,100"}
+Walked outside the lobby, saw the delivery boy arriving just in time.
+Took the delivery from him and heading back.
+
+
+:: Walk along the beach to watch sunrise {"position":"725,0","size":"100,100"}
+Enjoy a fantastic view of the sunrise by walking along the beach towards the entrance.
