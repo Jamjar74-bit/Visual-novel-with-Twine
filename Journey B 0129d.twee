@@ -1,0 +1,269 @@
+:: StoryTitle
+Journey B
+
+
+:: StoryData
+{
+  "ifid": "C313A387-66E7-4996-BCBE-6300A5F2AF0D",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Island Honolulu",
+  "zoom": 1
+}
+
+
+:: Arriving early back to my building. {"position":"1500,400","size":"100,100"}
+The mini-golf cart ride was an unexpected treat, a blessed rescue from the long, hot walk. Better still, it became a scenic tour. I enjoyed the vast ocean view the entire way. The sunrise was breathtaking, painting the sky in soft apricot and rose, while a fresh, salty breeze washed over me. Seagulls slid effortlessly on the wind currents above. By the time we arrived, I was only halfway through my own drink, and my roommate’s cup was still satisfyingly icy in the bottom of the bag.
+
+We pulled up to my building in what felt like no time at all. I turned to the staff member, my gratitude genuine. "Thank you so much. You saved me," I said, truly meaning it. I’ll remember his friendly, humble smile, his red resort shirt and his cheerful, islander-patterned shorts.
+
+With a final wave, I walked into the cool lobby, took the elevator up, and made my way to our room. The door swung open before I could even knock.
+"Finally! You're back! Come on, give me my drink!" My roommate's voice was a mix of impatience and eager joy.
+
+I reached into the delivery bag, felt the beautiful, preserved chill of her smoothie, and handed it over. She seized it, her face immediately breaking into a wide, fulfilled smile as her fingers closed around the cold cup. The mission, with all its detours and guilty sips, was finally—and perfectly—complete.
+
+
+[[Deliver the drink to my roomate.]]
+
+
+
+
+:: Deliver the drink to my roomate. {"position":"1700,250","size":"100,100"}
+The trek back felt longer with the drink warming in my hand, a slow betrayal by physics. I pushed open our apartment door to find my roommate sprawled on the couch, looking up with immediate, hopeful eyes.
+"Your salvation," I announced, handing it over. She took it, and the ice inside gave a watery slosh.
+
+She seized it with the reverence it deserved—which lasted exactly two seconds. The weak glug-glug of liquid ice gave me away.
+
+"Hey,"she said, voice flat with mock betrayal. "The drink is melting already." Then she shaked it a bit, due to the suspicious light weight of the cup, "And it's also half empty?! What the..." She peered at me over the rim of the cup, one eyebrow arched.
+I offered no defense, no elaborate story about the lizard. I just shrugged, letting my most disarming, "you-would-have-done-the-same" smile do all the talking. The evidence was damning, but the crime was delicious.
+
+Cheers.
+
+
+:: Enter the building lobby, talk to the receptionist. 2 {"position":"700,400","size":"100,100"}
+Walk into the lobby, talk to the receptionist at the front desk about the delivery.
+Have a nice conversation with her, and she passed me the delivery bag.
+
+[[Take the delivery bag]]
+
+
+:: Feed the lizard {"position":"350,100","size":"100,100"}
+On a whimsical impulse, she reached into her pocket and found the leftover breakfast banana, slightly soft from the morning’s heat. She peeled it slowly, broke off a small, pale chunk, and knelt. With deliberate slowness, she extended the offering.
+
+The lizard didn’t startle. It simply rotated one gleaming, side-set eye to inspect the fruit. A moment of consideration passed. Then, with a delicate, deliberate motion, it crept closer on its stony throne, its clawed feet making faint scraping sounds. It leaned in and took a decisive, almost polite bite.
+
+A laugh bubbled out of Jam—a pure, surprised sound. She fumbled for her phone, swiping to video. She captured the meticulous chewing, the serene, almost smiling face of her reptilian companion. She even leaned in, holding her breath, and snapped a few triumphant selfies with the placid creature.
+
+For a full, sunlit minute, the smoothie, the mission, the world beyond this stone vanished. Then, her phone buzzed sharply in her hand, breaking the spell. A message from her roommate flashed on the screen:
+
+“Hey! How’s the delivery going?”
+
+"Shoot, I totoally forgot about the delivery thing." Worried that I might missed the delivery boy, my eyes are searching for a prompt solution for the situation. Suddenly, I spotted a mini golf cart parked by the road side. 
+
+"Ahah! Let's go for a ride!" 
+
+
+[[Take the golf cart]]
+
+
+
+
+
+:: Find a mini golf cart {"position":"1300,400","size":"100,100"}
+"Okay, mission one complete," I muttered to myself, shifting the bag in my grip. "But mission two is critical: get this to my roommate before it's a soup." The clock was ticking. I scanned the resort paths, anxious for any form of wheels.
+A miracle! The guy from resort staff—the one who’d given me the quiet, efficient lift over—was still there. He was lounging in the driver's seat of his mini cart, parked cozily under a palm tree, looking utterly at peace.
+"A sign! I'm saved," I thought, making a beeline for him. "Let me see if he's up for one more trip." He spotted me when I was a few feet away. A slow, welcoming smile spread across his face.
+"Back so soon?" he asked, amusement in his voice.
+"Is the 'scenic return trip' service still running?" I replied, holding up the dripping cup as my excuse.
+He laughed and jerked his thumb toward the passenger seat. "For you? Always. Hop on. Just in time for a beach-view ride, actually."
+And so, instead of rushing, we took the long way. He drove us along the water's edge just as the sun finished its grand entrance, setting the whole beach on fire with morning light. I sipped my smoothie, now perfectly slushy, and decided that sometimes the best shortcuts are the longest, most beautiful detours.
+
+[[Arriving early back to my building.]]
+
+
+:: Find a way back. {"position":"1100,250","size":"100,100"}
+(set:$firstChoice to "Apartment")
+
+Victory! I finally got my delivery, clutching the bag like a sacred relic. Through the paper, I could feel the glorious, ice-cold promise of the pineapple yogurt smoothie. My mouth watered in traitorous anticipation. But a vow was a vow: I had to get this liquid treasure back to my roommate before the sun turned it into a sad, sweet puddle.
+I stood at a crossroads, literally. Which path would be faster? To my left, the sun-baked main road: efficient but exposed, a gauntlet of slow walkers and stoplights. To my right, the dappled-shade shortcut through the old park: cooler, but a winding maze of temptation (the bench by the fountain looked terribly inviting). The ice cubes in the cup gave a faint, ominous clink. The clock was ticking in the palm of my hand. I had to think quickly.
+
+[[Find a mini golf cart]]
+[[Walk down along the beach]]
+[[Take the elevator in the lobby]]
+
+
+:: Got scared, ran away {"position":"350,225","size":"100,100"}
+My journey to the garden was cut short by the terrifying sight of a huge lizard sunbathing right on my route. 
+
+"Oh boy, what is that?!" I got stuttled by the size of the creature. I've never seen something like this in the residencial area. I ran off and thinking what other options I have to go to the main entrance. And I just saw the lovely golf cart parked by the road downward the side walk. 
+
+
+[[Take the golf cart]]
+
+
+:: Ignore the lizard, go back to the apartment building {"position":"350,350","size":"100,100"}
+"Oh, look at that! A wild lizard, sunbathing all alone. It's so adorable!" I knew I had to get a video. Creeping closer, I captured a short clip on my phone. For ten peaceful minutes, I watched it bask, until the sun's heat became unbearable. 
+
+I decided to return to my apartment building. After taking some wrong turns inside the building, I only to realize I'd lost the path to the main entrance. Just as I started to feel truly lost, a friendly staff member appeared. 
+
+"Hi buddy, how can I help you? Are you lost or something?"the staff talked to me.
+"Haha, thank god, this place is like a maze. I couldn't find the way leading me to the front gate of the hotel. Can you point me in the right direction?" I answered with an awkward smile. 
+
+"Of course, but let me just give you a ride, which will save us a lot of time." he said, pointing to a golf cart. Gratefully, I followed him back through the garden and climbed onto the miniature vehicle.
+
+
+[[Take the golf cart]]
+
+
+:: Island Honolulu {"position":"0,200","size":"100,100"}
+It's been the fifth day since Jam arrived on the island Honolulu. The tropical islander lifestyle has slowly taken over Jam's routine.
+
+Jam's morning started with a groan and a grab for her phone. The first thing Jam did upon waking was to order a smoothie. Brain still was offline, her thumbs navigated to the delivery app by muscle memory. One tap—Starbucks. Another—Pineapple Yogurt Smoothie. Confirm! The order for Starbucks Pineapple Yogurt Smoothie was placed. 10 minutes later, Jam's phone buzzed, with a delivery notification pinged: “Your order is ready for pickup.”
+
+Little did she know, this simple errand would be the last normal task of her day. The mission seemed trivial—pick up the drink. But fate, it seemed, had stirred something extra into her islander experience.
+
+[[Walk to the backyard]]
+
+
+
+:: Lost in the hallway, can't find way to main entrance. {"position":"1500,100","size":"100,100"}
+My confidence in the "shortcut" evaporated as the hallway twisted and turned, leading me past identical doors and empty lounges until I hit a dead end—a maintenance closet. So much for my brilliant navigation.
+
+With a sigh, I pulled out my phone and called my roommate. "Hey... slight detour. I have the drinks, but I think I'm in the mirror dimension of our building. Any chance you can talk me back to reality?"
+
+Through a series of humorous and patient directions ("You passed the giant vase? Go back. No, the other giant vase..."), she guided me back to the main corridor. Following her voice in my ear, I retraced my steps, walked back across the familiar skybridge, and finally found our door.
+
+I raised my fist in quiet triumph. "Mission accomplished!!" I whispered to the empty hall, the precious, still-cold bag held aloft like a trophy before I finally pushed the door open.
+
+
+[[Deliver the drink to my roomate.]]
+
+
+:: Take the delivery bag {"position":"900,400","size":"100,100"}
+I took the delivery bag from the receptionist, the weight of the cold, fresh pineapple yogurt smoothie promising instant relief. Unable to wait, I tugged the cup free.
+"Just a quick sip," I muttered. The first taste was pure bliss—tart, sweet, and icy. "Now that's what I'm talking about." My exclamation hung in the air, acknowledged only by a still lizard sunning itself on the roadside. Our eyes met for a second. "Alright," I sighed, a new mission taking hold. "Time to find a way back. This needs to get to my roommate before it turns into lukewarm water."
+
+
+[[Find a way back.]]
+
+
+:: Take the elevator in the lobby {"position":"1300,100","size":"100,100"}
+Clutching my precious delivery, I made a strategic decision: I would find an indoor shortcut back to my building. The blazing sun outside was no friend to my melting smoothie.
+I discovered a promising elevator and took it to the second floor. The doors opened not onto another lobby, but onto a serene, air-conditioned skybridge connecting the two towers. It was a world apart from the heat—quiet, still, and bathed in soft, indirect light.
+"Perfect," I whispered, my voice absorbed by the calm. Color-coded signs pointed the way. "Just follow the signs. Not that hard." I took a long, savoring sip, the cold a shock of bliss. My pace slowed. The entire wall of the skybridge was glass, offering a panoramic postcard of the island. Turquoise water peeked between lush, green hills. "And meanwhile," I mused aloud, feeling a silly, profound happiness, "we can just enjoy the view through the window."
+Walking that cool, quiet hall with a tropical paradise stretched out beside me and the taste of pineapple on my tongue, the realization settled in: I am totally enjoying this islander lifestyle now.
+
+[[Lost in the hallway, can't find way to main entrance.]]
+
+
+:: Take the golf cart {"position":"525,225","size":"100,100"}
+It's been a while for me to be out picking the delivery, yet, I'm still far away from the picking up point. Hopefuly this ride can get me there sooner. Not sure if the delivery boy had arrived yet. 
+
+As soon as I settled into the mini golf cart, our pace quickened.
+“Super—this thing moves faster than I imagined!” I murmured.
+Rows of palm trees streamed past. The air was filled with birdsong and a refreshing breeze, while vibrant tropical flowers bloomed like scattered jewels in the sea of green.
+After some twist and turns, about ten minutes later, we pulled up to the hotel’s front entrance.
+
+"Thanks a lot for the ride, you saved me big time."I thanked the staff. 
+Got off the cart, my eyes were searching for the delivery boy. Thinking where he might be.
+
+[[Talk to the delivery dude]]
+
+[[Walk down to the beach]]
+
+[[Enter the building lobby, talk to the receptionist. 2]]
+
+
+:: Talk to the delivery dude {"position":"700,100","size":"100,100"}
+Super, we arrived earlier than I thought. Let me find the delivery person. Looking around outside the lobby, I saw few texi drivers, some arriving new guests. Just when I about to enter the lobby, I spotted someone sitting on his cool motocycle, wearing a street punk style leather jacket with graffiti art print on the back. With some suspition, I walked towards him. 
+
+"Hi, are you the starbuck delivery guy by any chance?" I'm asking him with doubts, and I also noticed that he's wearing a 6-pack muscle suit underneath the leather jacket.
+
+"Oh, yeah. Are you Jam? Been waiting for you for bit." said the delivery dude.
+
+"Yeah, that's me." I showed him my phone message after. 
+
+"Cool, herer's your bag, enjoy it!" He handed me the paper bag with drinks in it. 
+Out of nowhere, I rised my phone, starting to take some pictures of him. I guess it's just that he's so different from my expectation. 
+
+And unexpectedly, he started to pose for the shots. It was hilarious, with me walking away backward, taking some snapshots. A lot ended up being blurry.  
+
+
+[[Walk to the beach to enjoy the sunrise.]]
+
+
+:: Talking to the receptionist {"position":"900,250","size":"100,100"}
+I scanned the bustling drop-off area, but no one looked like a delivery person holding a smoothie. My best bet was the front desk. I walked into the cool, tiled lobby and approached the receptionist, a friendly woman with a kind smile.
+"Hi," I said, leaning slightly against the counter. "I'm expecting a drink delivery—a pineapple smoothie? I'm not sure if it's arrived yet."
+"Oh, yes! For room 304?" she asked, already turning to retrieve a branded delivery bag from the shelf behind her. "It just came in. It's nice and cold for you."
+"Perfect, thank you so much!" I said, taking the bag. The condensation immediately chilled my fingers. I had a nice, brief chat with her about the heat before heading back out into the sunshine.
+Bag in hand, I paused on the front steps. The lobby's cool comfort was behind me now. "Great, mission accomplished," I muttered to myself, eyeing the long, sun-drenched path back to my building. "Now I just need to find a way back."
+
+
+[[Find a way back.]]
+
+
+:: Walk down along the beach {"position":"1300,250","size":"100,100"}
+ I spotted the georgous ocean and beach view, which was just farther down the road. Couldn't resist the view, I walked down towards the beach and palm trees. 
+
+The sun is still rising, illuminates the sky and dyed the clouds into pink. The sun is like a just born baby, have redish cheeks shooting redish orange sun rays through the cracks of the clouds. The sea water is darker navy blue, compared to noon's turquise blue. The waves gently hitting the creamy white sand. The entire view is theraphutic. My soul can get cured by just taking a deep breath here. Stuned by the view, I took my phone to film it. I also took some selfies to make a memory of the day. 
+
+"Hey, how's the delivery picking up going?" My phone buzzed suddenly, my roomate texted me. 
+
+"Danm.......I toatally forgot again." I murmured to myself. I jumped up from the sand, packed my things, and started to run my way back. 
+
+
+[[Walked and ran for half an hour, arriving back]]
+
+
+:: Walk down to the beach {"position":"700,250","size":"100,100"}
+Super, we arrived earlier than I thought. Let me find the delivery person. Looking around outside the lobby, I saw few texi drivers, some arriving new guests. 
+
+"Weird, I didn't see anybody looks like a delivery person." I talked to myself, and then looked around, I spotted the georgous ocean and beach view, which was just farther down the road. Couldn't resist the view, I walked down towards the beach and palm trees. 
+
+The sun is still rising, illuminates the sky and dyed the clouds into pink. The sun is like a just born baby, have redish cheeks shooting redish orange sun rays through the cracks of the clouds. The sea water is darker navy blue, compared to noon's turquise blue. The waves gently hitting the creamy white sand. The entire view is theraphutic. My soul can get cured by just taking a deep breath here. Stuned by the view, I took my phone to film it. I also took some selfies to make a memory of the day. 
+
+"Hey, how's the delivery picking up going?" My phone buzzed suddenly, my roomate texted me. 
+
+"Danm.......I toatally forgot again." I murmured to myself. I packed my stuff and started to walk back to the hotel lobby. 
+
+
+[[Link to passage J ->Talking to the receptionist]]
+
+
+:: Walk to the backyard {"position":"150,200","size":"100,100"}
+Jam’s mission to pick up the delivery was simple: follow the sun-drenched pavement path around to the back of the resort. But the plan was pleasantly hijacked halfway there.
+
+Sprawled across a broad, flat stone like some prehistoric king holding court, was a lizard. A huge one. It was utterly motionless, a statue carved from sun-warmed stone and dappled scales, soaking in the morning light with a calm that felt ancient.
+
+Jam stopped, instantly charmed. The world seemed to slow. In the quiet, blissful repose of its sunbathing, the lizard's face—with its heavy-lidded eyes and noble profile—seemed to hold the faintest, wisest of smiles. It was a masterclass in stillness, and for a moment, Jam forgot all about the ticking clock and the melting smoothies waiting up the path.
+
+[[Feed the lizard]]
+[[Got scared, ran away]]
+[[Ignore the lizard, go back to the apartment building]]
+
+
+
+:: Walk to the beach to enjoy the sunrise. {"position":"900,100","size":"100,100"}
+ I walked down towards the beach and palm trees. 
+
+The sun is still rising, illuminates the sky and dyed the clouds into pink. The sun is like a just born baby, have redish cheeks shooting redish orange sun rays through the cracks of the clouds. The sea water is darker navy blue, compared to noon's turquise blue. The waves gently hitting the creamy white sand. The entire view is theraphutic. My soul can get cured by just taking a deep breath here. Stuned by the view, I took my phone to film it. I also took some selfies to make a memory of the day. 
+
+"Hey, how's the delivery picking up going?" My phone buzzed suddenly, my roomate texted me. 
+
+"Danm.......I toatally forgot again." I have to find a way back.
+
+
+
+[[Find a way back.]]
+
+
+:: Walked and ran for half an hour, arriving back {"position":"1500,250","size":"100,100"}
+After about half an hour of trekking through the relentless heat—a mix of determined walking and desperate, drink-saving sprints—my willpower had melted faster than the ice. I couldn't help sipping more of my own drink. The craving won again. And again.
+Then, my eyes drifted to the second cup in the bag, my roommate's sacred trust. Just a taste, I reasoned, to make sure it's still good. One sip won't hurt, I thought. It hurt so good. I took another. The heat was my accomplice, my excuse. Before I knew it, I was staring at a cup that was conspicuously less than full.
+
+"Damn," I whispered to the empty street, a bubble of guilty laughter escaping my lips. "I almost finished the second cup." I giggled, a truly evil sound even to my own ears, the petty crime feeling absurd and thrilling. The small, nagging guilt was utterly drowned out by the sweet, tangy victory on my tongue.
+With a deep, theatrical breath to compose myself, I finally slid the key into our door and pushed it open, the evidence held casually with an innocnet smile on my face. I stepped into the room with cooling air conditioning on.
+
+
+[[Deliver the drink to my roomate.]]
